@@ -67,5 +67,6 @@ body{
     transition: transform .3s;
 }
 .btn:hover{
+ 
     transform: translateY(-.6rem);
 }
